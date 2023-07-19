@@ -18,7 +18,7 @@ This is a simple calculator application built using React.js. It is designed to 
 
 ## Screenshots
 
-Calculator App Screenshot
+![Calculator App Screenshot](https://github.com/eraykarakasli/Calculator-React-Web-Page/blob/main/calculator.png)
 
 ## Technologies Used
 
